@@ -109,6 +109,7 @@ Use the capitalization below; pay close attention to terms that are pluralized.
 |property records|
 |questionnaires|
 |radio programs|
+|records (documents)|
 |reports|
 |résumés (personnel records)|
 |rosters|
